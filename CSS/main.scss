@@ -58,8 +58,23 @@
       line-height: 3rem;
     }
 
+    p {
+      margin: 1.5rem 58rem 1.5rem 0;
+      font-size: 0.65rem;
+      font-weight: 500;
+      color: #73777a;
+    }
+
+    button {
+      outline: none;
+      border: none;
+      color: #fdfdfd;
+      padding: 0.5rem;
+      background: #6956e9;
+    }
+
     .hero--scroll {
-      margin-top: 20rem;
+      margin-top: 5rem;
       display: flex;
       align-items: center;
 
