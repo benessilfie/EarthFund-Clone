@@ -46,4 +46,26 @@
       border: 1.5px solid #213855;
     }
   }
+
+  .hero--section {
+    margin: 7rem 5rem;
+
+    .hero--scroll {
+      margin-top: 20rem;
+      display: flex;
+      align-items: center;
+
+      img {
+        margin-right: 0.5rem;
+        width: 0.75rem;
+        height: 0.75rem;
+      }
+
+      p {
+        color: #213855;
+        font-size: 0.5rem;
+        font-weight: 700;
+      }
+    }
+  }
 }

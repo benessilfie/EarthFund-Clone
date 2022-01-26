@@ -57,4 +57,30 @@
   background: #fdfdfd;
   border: 1.5px solid #213855;
 }
+
+.wrapper .hero--section {
+  margin: 7rem 5rem;
+}
+
+.wrapper .hero--section .hero--scroll {
+  margin-top: 20rem;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+}
+
+.wrapper .hero--section .hero--scroll img {
+  margin-right: 0.5rem;
+  width: 0.75rem;
+  height: 0.75rem;
+}
+
+.wrapper .hero--section .hero--scroll p {
+  color: #213855;
+  font-size: 0.5rem;
+  font-weight: 700;
+}
 /*# sourceMappingURL=main.css.map */
