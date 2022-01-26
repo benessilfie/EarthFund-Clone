@@ -3,5 +3,47 @@
 * {
   margin: 0;
   padding: 0;
+  box-sizing: border-box;
   font-family: "Inter", sans-serif;
+}
+
+.wrapper {
+  background: #fdfdfd;
+
+  nav {
+    padding: 1.75rem;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+
+    div {
+      display: flex;
+      align-items: center;
+
+      a {
+        font-size: 0.615rem;
+        font-weight: 900;
+        color: #213855;
+        letter-spacing: 0.1em;
+        text-decoration: none;
+      }
+
+      .nav--logo {
+        margin: 0rem 0.35rem 0.145rem 0rem;
+        width: 1.65rem;
+        height: 1.65rem;
+      }
+    }
+
+    button {
+      outline: none;
+      color: #213855;
+      padding: 0.325rem 0.5rem;
+      font-size: 0.5rem;
+      font-weight: 700;
+      border-radius: 8px;
+      background: #fdfdfd;
+      border: 1.5px solid #213855;
+    }
+  }
 }
