@@ -59,7 +59,15 @@
 }
 
 .wrapper .hero--section {
-  margin: 7rem 5rem;
+  margin: 6rem 5rem;
+}
+
+.wrapper .hero--section h1 {
+  font-family: "Poppins";
+  font-size: 3rem;
+  color: #213855;
+  margin-right: 55rem;
+  line-height: 3rem;
 }
 
 .wrapper .hero--section .hero--scroll {
