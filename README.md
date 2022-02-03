@@ -10,7 +10,7 @@ This is a simple hero section built to be responsive
 
 <img src="https://raw.githubusercontent.com/essilfiequansah/EarthFund-Clone/master/screenshots/mobile.png" width="33%"  height="30%"/>
 
-## Art - Original UI
+## Original UI
 
 <img src="https://raw.githubusercontent.com/essilfiequansah/EarthFund-Clone/master/screenshots/Original.png" width="80%"  height="40%"/>
 
