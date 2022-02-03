@@ -6,7 +6,7 @@ This is a simple hero section built to be responsive
 
 <img src="https://raw.githubusercontent.com/essilfiequansah/EarthFund-Clone/master/screenshots/desktop.png" width="80%"  height="40%"/>
 
-## Ar Mobile & Tablet View
+## Mobile & Tablet View
 
 <img src="https://raw.githubusercontent.com/essilfiequansah/EarthFund-Clone/master/screenshots/mobile.png" width="33%"  height="30%"/>
 
