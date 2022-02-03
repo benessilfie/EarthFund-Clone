@@ -16,7 +16,7 @@ This is a simple hero section built to be responsive
 
 ## Author
 
-**Benjamin Essilfie-Quansah**
+**Benjamin Essilfie-Quan**
 
 - [**Twitter**](https://twitter.com/essilfiequansah)
 - [**Linkedin**](https://www.linkedin.com/in/essilfiequansah/)
