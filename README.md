@@ -2,7 +2,7 @@
 
 This is a simple hero section built to be responsive
 
-## Art Desktop View
+## ArDesktop View
 
 <img src="https://raw.githubusercontent.com/essilfiequansah/EarthFund-Clone/master/screenshots/desktop.png" width="80%"  height="40%"/>
 
