@@ -1,6 +1,6 @@
 # Responsive Footer
 
-This is a simple hero section built to be responsive
+This is a simple hero section built to be 
 
 ## Desktop View
 
